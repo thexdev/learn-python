@@ -36,4 +36,4 @@ print(fruits)
 newlist = list(('apple', 'banana', 'grape'))
 print(newlist)
 
-print(list_fruit.reverse())
+print(list_fruit.reveres())
